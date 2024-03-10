@@ -37,7 +37,7 @@
     "lint-staged": "13.0.3",
     "prettier": "2.7.1",
     "ts-node": "^10.9.1",
-    "typedoc": "0.25.1",
+    "typedoc": "0.25.12",
     "typescript": "~5.2.2"
   },
   "scripts": {
